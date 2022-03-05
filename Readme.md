@@ -6,7 +6,7 @@
 A basic flashcards iOS app
 
 ### App Walk-though
-<img src="flashcards.gif" width=200><br>
+<img src="Flashcards.gif" width=200><br>
 
 
 ## Required
