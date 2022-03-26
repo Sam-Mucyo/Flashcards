@@ -7,7 +7,7 @@ Flashcards iOS app
 
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="lab3.gif" width=200><br>
 
 ## Required
 - [ ] User can browse through multiple flashcards
