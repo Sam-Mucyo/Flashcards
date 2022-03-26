@@ -1,9 +1,25 @@
 ## Flashcards
 
-## Lab 2
+## Lab 3
 
 ### App Description
-A basic flashcards iOS app
+Flashcards iOS app
+
+
+### App Walk-though
+<img src="lab3.gif" width=200><br>
+
+## Required
+- [ ] User can browse through multiple flashcards
+- [ ] User can re-open the app and see previously created flashcards
+- [ ] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
+## Lab 2
 
 ### App Walk-though
 <img src="lab2.gif" width=200><br>
@@ -17,10 +33,9 @@ A basic flashcards iOS app
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
-## Lab 1
 
-### App Description
-A basic flashcards iOS app
+
+## Lab 1
 
 ### App Walk-though
 <img src="flashcards.gif" width=200><br>
